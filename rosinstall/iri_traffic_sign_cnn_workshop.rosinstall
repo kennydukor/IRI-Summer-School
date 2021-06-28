@@ -1,0 +1,16 @@
+###cnn_workshop/
+- git:
+    local-name: cnn_workshop/iri_traffic_sign_cnn_main
+    uri: https://gitlab.iri.upc.edu/mobile_robotics/summer_school/cnn_workshop/iri_traffic_sign_cnn_main.git
+- git:
+    local-name: cnn_workshop/iri_traffic_sign_cnn_ar_tag
+    uri: https://gitlab.iri.upc.edu/mobile_robotics/summer_school/cnn_workshop/iri_traffic_sign_cnn_ar_tag.git
+- git:
+    local-name: cnn_workshop/iri_traffic_sign_cnn_workshop_msgs
+    uri: https://gitlab.iri.upc.edu/mobile_robotics/summer_school/cnn_workshop/iri_traffic_sign_cnn_workshop_msgs.git
+- git:
+    local-name: cnn_workshop/iri_traffic_sign_cnn_workshop_how_to
+    uri: https://gitlab.iri.upc.edu/mobile_robotics/summer_school/cnn_workshop/iri_traffic_sign_cnn_workshop_how_to.git
+- git:
+    local-name: cnn_workshop/iri_traffic_sign_classifier
+    uri: https://gitlab.iri.upc.edu/mobile_robotics/summer_school/cnn_workshop/iri_traffic_sign_classifier.git
